@@ -1,4 +1,4 @@
-test updagte
+test update
 test add
 test readme
 
